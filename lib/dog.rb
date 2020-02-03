@@ -5,4 +5,8 @@ class Dog
   def initialize(name)
   @name = name 
  end 
+ 
+ @@all = [] 
+ 
+ def s
 end
