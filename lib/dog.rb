@@ -8,5 +8,7 @@ class Dog
  
  @@all = [] 
  
- def s
+ def self.all 
+   @@all 
+ end 
 end
